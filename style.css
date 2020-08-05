@@ -1,0 +1,122 @@
+body {
+    font-family: 'Raleway', sans-serif;
+}
+
+.btn {
+    background-color: rgb(19, 199, 19);
+    color: #ffffff;
+    padding: 10px 30px;
+    border-radius: 50px;
+    margin:0 30px;
+}
+
+.saction0{
+    background-color: rgb(245, 156, 39);
+}
+
+.p1 {
+    color: tomato;
+    font-size: 30px;
+    font-weight: 600;
+}
+
+#learning{
+    font-size: 45px;
+    font-weight: 800;
+    padding: 10px 0;
+    margin: 15px 0;
+}
+
+span{
+    color:#008000;
+}
+
+.p2{
+    font-size: 20px;
+    font-weight: 200;
+}
+
+
+.saction1{
+    margin-top: 80px;
+}
+
+.btn2{
+    background-color: rgb(19, 199, 19);
+    color: #ffffff;
+    padding: 15px 30px;
+    border-radius: 50px;
+    border: none;
+    margin: 15px 10px;
+}
+
+.saction2{
+    padding-top: 60px;
+    
+}
+
+.alemint{
+    padding: 30px 0;
+    margin: 0 2.5px;
+    background-color: rgb(231, 238, 238);
+    border-radius: 20px;
+}
+
+.alemint:hover{
+    box-shadow: 10px 10px 30px rgb(189, 190, 190);
+    background-color: rgb(245, 252, 253);
+}
+
+h1{
+    text-align: center;
+    margin: 120px 0;
+    
+}
+
+.btn3{
+    background-color: rgb(19, 199, 19);
+    color: #ffffff;
+    padding: 15px 30px;
+    border-radius: 50px;
+    border: none;
+    margin: 30px 10px;
+}
+
+.ci{
+    box-shadow: 15px 20px 30px rgb(122, 122, 122);
+    background-color: rgb(231, 234, 235);
+}
+
+.p3{
+    margin-top: 60px;
+    font-size: 20px;
+    font-weight: 400;
+}
+
+footer {
+    color: #cccccc;
+    background-color: #000000d5;
+}
+
+footer ul li {
+    list-style: none;
+    font-size: 1.2rem;
+}
+
+footer h1 {
+    font-size: 1.5rem;
+    font-weight: 600;
+    margin-left: 2.5rem;
+    margin-bottom: 1.5rem;
+    margin-top: 1rem;
+}
+
+.footer-p {
+    margin-top: 30px;
+}
+.footer-p2 {
+    font-size: 1rem;
+}
+    
+
+    
